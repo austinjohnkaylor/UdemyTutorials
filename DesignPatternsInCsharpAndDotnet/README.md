@@ -1,2 +1,2 @@
 # Udemy Course - Design Patterns in C# and .NET
-[udemy course](https://www.udemy.com/course/design-patterns-csharp-dotnet/)
+[Link to Course](https://www.udemy.com/course/design-patterns-csharp-dotnet/)
